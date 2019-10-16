@@ -1,2 +1,2 @@
-# Android Player
-可以播放音乐视频
+# Android项目
+Player 可以播放音乐视频
